@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá 👋. Sou Afonso Lima!
+
+Apaixonado por tecnologia e como as coisas funcionam ;) Atuo na área de desenvolvimento desde 1999.
+
+Iniciei com Delphi onde me especializei e ao longo dos anos passei por outras linguagens como PHP, C# e Java que usei em projetos complementares.
+
+Em 2011 passei a desenvolver também para Android com Delphi e Java.
+
+Em 2019 iniciei estudos de desenvolvimento na plataforma web com Node, React, Next, TypeScript... 
+
+Atualmente meu dia a dia é focado no desenvolvimento mobile e web.
 
 <!--
 **afonsolimajr/afonsolimajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
